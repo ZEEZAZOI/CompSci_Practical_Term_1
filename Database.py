@@ -26,4 +26,4 @@ class Product:
         self.Price = Price
 # First Make the Warehouse Size and display
 warehouse1 = Warehouse(10,10)
-print(warehouse1.Rows)
+warehouse1.Display()
